@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GaganShergill
 - 👀 I’m interested in big data technologies
 - 🌱 I’m currently learning cloud and artificial intelligence
-- 💞️ I’m looking to collaborate on project related machine learning and data science
+- 💞️ I’m looking to collaborate on project related to machine learning and data science
 - 📫 How to reach me -- ig: gaganshergill.ca, linkedin: https://www.linkedin.com/gaganshergill/
 
 <!---
