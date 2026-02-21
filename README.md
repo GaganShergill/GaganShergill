@@ -9,10 +9,12 @@
 ---
 
 ### ⚡ Skills & Tools
-- **Big Data & Analytics:** Spark, Hadoop, Snowflake  
-- **Cloud Platforms:** Azure, AWS  
-- **Data Engineering:** ETL pipelines, data warehousing, workflow automation  
-- **Programming & Scripting:** Python, SQL, Bash  
+
+**Data Analytics & Programming:** Python, R, PySpark, Advanced DAX, VBA  
+**Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
+**Data Modeling & ETL:** SQL, Power Query M, Azure Data Factory, Microsoft Fabric, SSAS  
+**Databases & Cloud Storage:** MS SQL Server, Azure Storage, Delta Live Table, Delta Lake, S3  
+**Tools & Platforms:** MS Excel, Power Automate, Power Apps, Git, Jupyter Notebook, Azure Synapse Analytics, Databricks
 
 ---
 
